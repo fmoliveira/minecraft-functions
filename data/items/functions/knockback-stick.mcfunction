@@ -1,0 +1,3 @@
+# give @p[limit=1,sort=nearest] stick[custom_name='{"bold":true,"text":"Seeyou Later","underlined":true}',unbreakable={},rarity="epic",enchantments={levels:{"minecraft:knockback":100}},attribute_modifiers=[{type:"generic.attack_speed",name:"generic.attack_speed",amount:100,operation:"add_value",uuid:[I;311849225,-329038006,-1892838877,-97602793],slot:"any"},{type:"generic.movement_speed",name:"generic.movement_speed",amount:100,operation:"add_value",uuid:[I;1781982177,1385385559,-1714953886,1127977096]}]] 1
+
+give @p stick[custom_name='{"bold":true,"text":"Knockback Stick","underlined":true}',unbreakable={},rarity="epic",enchantments={levels:{"minecraft:knockback":10}}]
